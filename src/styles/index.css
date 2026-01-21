@@ -1,0 +1,13 @@
+/* src/styles/index.css */
+.container { max-width: 720px; margin: 0 auto; padding: 1rem; }
+.grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: .75rem; }
+.choice { padding: .875rem; border-radius: .75rem; border: 1px solid #ddd; }
+.quizImage { width: 100%; border-radius: .75rem; cursor: zoom-in; }
+.modal { position: fixed; inset: 0; background: rgba(0,0,0,.6); display:flex; align-items:center; justify-content:center; }
+.modalImage { max-width: 92vw; max-height: 82vh; border-radius: .5rem; }
+.close { position: absolute; top: 1rem; right: 1rem; }
+.score { font-weight: 700; }
+.badge { margin-right: .5rem; padding: .25rem .5rem; border-radius: .5rem; background: #eee; }
+.badge.beginner { background: #def; } .badge.intermediate { background:#fdc; } .badge.advanced { background:#dfd; }
+.toolbar { display:flex; gap:.5rem; align-items:center; margin-top:.75rem; }
+.ok { color: #0a7; } .ng { color: #d33; }
