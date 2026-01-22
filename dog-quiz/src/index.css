@@ -66,3 +66,58 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+.app {
+  text-align: center;
+  font-family: "Arial", sans-serif;
+  padding: 20px;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.image {
+  width: 150px;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+.button-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+}
+
+.start-button,
+.rank-button {
+  width: 150px;
+  padding: 10px;
+  font-size: 16px;
+  border: 2px solid transparent;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.start-button {
+  background-color: #d6e4ff;
+  border-color: #91caff;
+}
+
+.rank-button {
+  background-color: #e6f7e6;
+  border-color: #a7d7a7;
+}
+
+.start-button:hover {
+  background-color: #91caff;
+  color: white;
+}
+
+.rank-button:hover {
+  background-color: #a7d7a7;
+  color: white;
+}
