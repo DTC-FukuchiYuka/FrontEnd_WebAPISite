@@ -73,3 +73,8 @@
   background-color: #91caff;
   color: white;
 }
+
+.badge-image {
+  width: 120px;
+  object-fit: contain;
+}
