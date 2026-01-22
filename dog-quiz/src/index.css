@@ -78,12 +78,6 @@ button:focus-visible {
   margin-bottom: 20px;
 }
 
-.image {
-  width: 150px;
-  height: auto;
-  margin-bottom: 20px;
-}
-
 .button-container {
   display: flex;
   flex-direction: column;
@@ -94,6 +88,7 @@ button:focus-visible {
 .start-button,
 .rank-button {
   width: 150px;
+  margin-top: 10px;
   padding: 10px;
   font-size: 16px;
   border: 2px solid transparent;
@@ -119,4 +114,24 @@ button:focus-visible {
 .rank-button:hover {
   background-color: #a7d7a7;
   color: white;
+}
+
+.mt-10 {
+  margin-top: 10px;
+}
+
+.mt-20 {
+  margin-top: 20px;
+}
+
+.mt-30 {
+  margin-top: 30px;
+}
+
+.m-10 {
+  margin: 10px;
+}
+
+.m-20 {
+  margin: 20px;
 }
