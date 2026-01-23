@@ -1,5 +1,5 @@
 import { useNavigate } from "react-router-dom";
-import "./MyRank.css";
+import "./myRank.css";
 import { useState } from "react";
 import bronze from "../../../assets/bronze.png";
 import silver from "../../../assets/silver.png";
