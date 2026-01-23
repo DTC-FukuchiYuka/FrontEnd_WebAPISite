@@ -8,6 +8,7 @@ import {
 import dogsImage1 from "./assets/animal_quiz_maru.png";
 import dogsImage2 from "./assets/animal_quiz_batsu.png";
 import MyRank from "./features/myRank/pages/MyRank";
+import Quiz from "./features/quiz/pages/Quiz";
 
 /**
  * メインコンポーネント
@@ -18,6 +19,8 @@ const App: React.FC = () => {
       <Routes>
         {/* ホーム画面 */}
         <Route path="/" element={<Home />} />
+        {/* クイズ画面 */}
+        <Route path="/quiz" element={<Quiz />} />
         {/* マイランク画面 */}
         <Route path="/my-rank" element={<MyRank />} />
       </Routes>
@@ -46,7 +49,9 @@ const Home: React.FC = () => {
       <img src={dogsImage1} alt="犬クイズ_マル" width={180} />
       <img src={dogsImage2} alt="犬クイズ_バツ" width={180} />
       <div className="button-container">
-        <button className="start-button">スタート</button>
+        <button className="start-button" onClick={() => navigate("/quiz")}>
+          スタート
+        </button>
         {/* マイランクボタン */}
         <button
           className="rank-button"

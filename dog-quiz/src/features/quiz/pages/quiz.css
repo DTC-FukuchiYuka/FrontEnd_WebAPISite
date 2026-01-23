@@ -1,0 +1,96 @@
+.quiz-container {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+.quiz-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.quiz-header p {
+  font-size: 18px;
+}
+
+.round_btn {
+  display: block;
+  position: relative;
+  width: 30px;
+  height: 30px;
+  border: 2px solid #333; /* 枠の調整 */
+  border-radius: 50%; /* 丸みの度合い */
+  background: #fff; /* ボタンの背景色 */
+}
+
+.round_btn::before,
+.round_btn::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 3px; /* 棒の幅（太さ） */
+  height: 22px; /* 棒の高さ */
+  background: #333; /* バツ印の色 */
+}
+
+.round_btn::before {
+  transform: translate(-50%, -50%) rotate(45deg);
+}
+
+.round_btn::after {
+  transform: translate(-50%, -50%) rotate(-45deg);
+}
+
+.quiz-question {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.quiz-image {
+  width: 400px; /* 横幅を固定 */
+  height: 300px; /* 縦幅を固定 */
+  object-fit: cover; /* 中央を基準にトリミング */
+  border-radius: 10px; /* 角を丸める */
+  margin-bottom: 20px;
+  display: block; /* 中央揃えのための設定 */
+  margin-left: auto; /* 中央揃え */
+  margin-right: auto; /* 中央揃え */
+  overflow: hidden; /* 不要な部分を隠す */
+}
+
+.quiz-options {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+
+.quiz-option {
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.quiz-option:hover {
+  background-color: #f0f0f0;
+}
+
+.quiz-result {
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+.feedback-image {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 450px;
+  height: 450px;
+  transform: translate(-50%, -50%);
+  z-index: 10;
+}
