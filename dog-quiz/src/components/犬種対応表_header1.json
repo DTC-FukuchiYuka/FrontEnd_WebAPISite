@@ -1,0 +1,992 @@
+[
+  {
+    "No.": "1",
+    "犬種": "affenpinscher",
+    "名前": "アーフェンピンシャー",
+    "URL例": "https://images.dog.ceo/breeds/affenpinscher/n02110627_11279.jpg"
+  },
+  {
+    "No.": "2",
+    "犬種": "african-wild",
+    "名前": "アフリカワイルド",
+    "URL例": "https://images.dog.ceo/breeds/african-wild/n02116738_1627.jpg"
+  },
+  {
+    "No.": "3",
+    "犬種": "airedale",
+    "名前": "エアデール・テリア",
+    "URL例": "https://images.dog.ceo/breeds/airedale/n02096051_9440.jpg"
+  },
+  {
+    "No.": "4",
+    "犬種": "akita",
+    "名前": "秋田犬",
+    "URL例": "https://images.dog.ceo/breeds/akita/An_Akita_Inu_resting.jpg"
+  },
+  {
+    "No.": "5",
+    "犬種": "appenzeller",
+    "名前": "アッペンツェラー",
+    "URL例": "https://images.dog.ceo/breeds/appenzeller/n02107908_91.jpg"
+  },
+  {
+    "No.": "6",
+    "犬種": "australian-kelpie",
+    "名前": "オーストラリアン・ケルピー",
+    "URL例": "https://images.dog.ceo/breeds/australian-kelpie/IMG_2599.jpg"
+  },
+  {
+    "No.": "7",
+    "犬種": "australian-shepherd",
+    "名前": "オーストラリアン・シェパード",
+    "URL例": "https://images.dog.ceo/breeds/australian-shepherd/pepper2.jpg"
+  },
+  {
+    "No.": "8",
+    "犬種": "bakharwal-indian",
+    "名前": "カシミール・シープドッグ",
+    "URL例": "https://images.dog.ceo/breeds/bakharwal-indian/Bakharwal.jpg"
+  },
+  {
+    "No.": "9",
+    "犬種": "basenji",
+    "名前": "バセンジー",
+    "URL例": "https://images.dog.ceo/breeds/basenji/n02110806_6554.jpg"
+  },
+  {
+    "No.": "10",
+    "犬種": "beagle",
+    "名前": "ビーグル",
+    "URL例": "https://images.dog.ceo/breeds/beagle/n02088364_8820.jpg"
+  },
+  {
+    "No.": "11",
+    "犬種": "bluetick",
+    "名前": "ブルーティック・クーンハウンド",
+    "URL例": "https://images.dog.ceo/breeds/bluetick/n02088632_2507.jpg"
+  },
+  {
+    "No.": "12",
+    "犬種": "borzoi",
+    "名前": "ボルゾイ",
+    "URL例": "https://images.dog.ceo/breeds/borzoi/n02090622_1253.jpg"
+  },
+  {
+    "No.": "13",
+    "犬種": "bouvier",
+    "名前": "ブービエ・デ・フランダース",
+    "URL例": "https://images.dog.ceo/breeds/bouvier/n02106382_3756.jpg"
+  },
+  {
+    "No.": "14",
+    "犬種": "boxer",
+    "名前": "ボクサー",
+    "URL例": "https://images.dog.ceo/breeds/boxer/n02108089_2526.jpg"
+  },
+  {
+    "No.": "15",
+    "犬種": "brabancon",
+    "名前": "プチブラバンソン",
+    "URL例": "https://images.dog.ceo/breeds/brabancon/n02112706_286.jpg"
+  },
+  {
+    "No.": "16",
+    "犬種": "briard",
+    "名前": "ブリアード",
+    "URL例": "https://images.dog.ceo/breeds/briard/n02105251_3389.jpg"
+  },
+  {
+    "No.": "17",
+    "犬種": "buhund-norwegian",
+    "名前": "ノルウェジアン・ブーフント",
+    "URL例": "https://images.dog.ceo/breeds/buhund-norwegian/hakon1.jpg"
+  },
+  {
+    "No.": "18",
+    "犬種": "bulldog-boston",
+    "名前": "ボストンテリア",
+    "URL例": "https://images.dog.ceo/breeds/bulldog-boston/n02096585_12464.jpg"
+  },
+  {
+    "No.": "19",
+    "犬種": "bulldog-english",
+    "名前": "イングリッシュブルドッグ",
+    "URL例": "https://images.dog.ceo/breeds/bulldog-english/mami.jpg"
+  },
+  {
+    "No.": "20",
+    "犬種": "bulldog-french",
+    "名前": "フレンチブルドッグ",
+    "URL例": "https://images.dog.ceo/breeds/bulldog-french/n02108915_3369.jpg"
+  },
+  {
+    "No.": "21",
+    "犬種": "bullterrier-staffordshire",
+    "名前": "スタッフォードシャー・ブル・テリア",
+    "URL例": "https://images.dog.ceo/breeds/bullterrier-staffordshire/n02093256_1384.jpg"
+  },
+  {
+    "No.": "22",
+    "犬種": "cattledog-australian",
+    "名前": "オーストラリアン・キャトル・ドッグ",
+    "URL例": "https://images.dog.ceo/breeds/cattledog-australian/IMG_4379.jpg"
+  },
+  {
+    "No.": "23",
+    "犬種": "cavapoo",
+    "名前": "キャバプー",
+    "URL例": "https://images.dog.ceo/breeds/cavapoo/doggo2.jpg"
+  },
+  {
+    "No.": "24",
+    "犬種": "chihuahua",
+    "名前": "チワワ",
+    "URL例": "https://images.dog.ceo/breeds/chihuahua/n02085620_9414.jpg"
+  },
+  {
+    "No.": "25",
+    "犬種": "chippiparai-indian",
+    "名前": "チッピパライ・ハウンド",
+    "URL例": "https://images.dog.ceo/breeds/chippiparai-indian/Indian-Chippiparai.jpg"
+  },
+  {
+    "No.": "26",
+    "犬種": "chow",
+    "名前": "チャウチャウ",
+    "URL例": "https://images.dog.ceo/breeds/chow/n02112137_5945.jpg"
+  },
+  {
+    "No.": "27",
+    "犬種": "clumber",
+    "名前": "クランバー・スパニエル",
+    "URL例": "https://images.dog.ceo/breeds/clumber/n02101556_4994.jpg"
+  },
+  {
+    "No.": "28",
+    "犬種": "cockapoo",
+    "名前": "コッカープー",
+    "URL例": "https://images.dog.ceo/breeds/cockapoo/Guri3.jpg"
+  },
+  {
+    "No.": "29",
+    "犬種": "collie-border",
+    "名前": "ボーダー・コリー",
+    "URL例": "https://images.dog.ceo/breeds/collie-border/n02106166_6710.jpg"
+  },
+  {
+    "No.": "30",
+    "犬種": "coonhound",
+    "名前": "クーンハウンド",
+    "URL例": "https://images.dog.ceo/breeds/coonhound/n02089078_2032.jpg"
+  },
+  {
+    "No.": "31",
+    "犬種": "corgi-cardigan",
+    "名前": "コーギー・カーディガン",
+    "URL例": "https://images.dog.ceo/breeds/corgi-cardigan/n02113186_8932.jpg"
+  },
+  {
+    "No.": "32",
+    "犬種": "cotondetulear",
+    "名前": "コトン・ド・テュレアール",
+    "URL例": "https://images.dog.ceo/breeds/cotondetulear/IMAG1063.jpg"
+  },
+  {
+    "No.": "33",
+    "犬種": "dachshund",
+    "名前": "ダックスフント",
+    "URL例": "https://images.dog.ceo/breeds/dachshund/reese.jpg"
+  },
+  {
+    "No.": "34",
+    "犬種": "dalmatian",
+    "名前": "ダルメシアン",
+    "URL例": "https://images.dog.ceo/breeds/dalmatian/cooper1.jpg"
+  },
+  {
+    "No.": "35",
+    "犬種": "dane-great",
+    "名前": "グレート・デーン",
+    "URL例": "https://images.dog.ceo/breeds/dane-great/n02109047_1659.jpg"
+  },
+  {
+    "No.": "36",
+    "犬種": "danish-swedish-farmdog",
+    "名前": "ダンスク・スヴェンスク・ゴールフンド",
+    "URL例": "https://images.dog.ceo/breeds/danish-swedish-farmdog/ebba_004.jpg"
+  },
+  {
+    "No.": "37",
+    "犬種": "deerhound-scottish",
+    "名前": "スコティッシュ・ディアハウンド",
+    "URL例": "https://images.dog.ceo/breeds/deerhound-scottish/n02092002_6534.jpg"
+  },
+  {
+    "No.": "38",
+    "犬種": "dhole",
+    "名前": "ドール",
+    "URL例": "https://images.dog.ceo/breeds/dhole/n02115913_4266.jpg"
+  },
+  {
+    "No.": "39",
+    "犬種": "dingo",
+    "名前": "ディンゴ",
+    "URL例": "https://images.dog.ceo/breeds/dingo/n02115641_8492.jpg"
+  },
+  {
+    "No.": "40",
+    "犬種": "doberman",
+    "名前": "ドーベルマン",
+    "URL例": "https://images.dog.ceo/breeds/doberman/n02107142_18020.jpg"
+  },
+  {
+    "No.": "41",
+    "犬種": "elkhound-norwegian",
+    "名前": "ノルウェジアン・エルクハウンド",
+    "URL例": "https://images.dog.ceo/breeds/elkhound-norwegian/n02091467_3071.jpg"
+  },
+  {
+    "No.": "42",
+    "犬種": "entlebucher",
+    "名前": "エントレブッハー・キャトル・ドッグ",
+    "URL例": "https://images.dog.ceo/breeds/entlebucher/n02108000_1324.jpg"
+  },
+  {
+    "No.": "43",
+    "犬種": "eskimo",
+    "名前": "アメリカン・エスキモー・ドッグ",
+    "URL例": "https://images.dog.ceo/breeds/eskimo/n02109961_6119.jpg"
+  },
+  {
+    "No.": "44",
+    "犬種": "finnish-lapphund",
+    "名前": "フィニッシュ・ラップフンド",
+    "URL例": "https://images.dog.ceo/breeds/finnish-lapphund/img_3801.jpg"
+  },
+  {
+    "No.": "45",
+    "犬種": "frise-bichon",
+    "名前": "ビション・フリーゼ",
+    "URL例": "https://images.dog.ceo/breeds/frise-bichon/4.jpg"
+  },
+  {
+    "No.": "46",
+    "犬種": "gaddi-indian",
+    "名前": "ヒマラヤン・シープドッグ",
+    "URL例": "https://images.dog.ceo/breeds/gaddi-indian/Gaddi.jpg"
+  },
+  {
+    "No.": "47",
+    "犬種": "german-shepherd",
+    "名前": "ジャーマンシェパード",
+    "URL例": "https://images.dog.ceo/breeds/german-shepherd/n02106662_7885.jpg"
+  },
+  {
+    "No.": "48",
+    "犬種": "greyhound-indian",
+    "名前": "インディアン・グレイハウンド",
+    "URL例": "https://images.dog.ceo/breeds/greyhound-indian/rampur-greyhound.jpg"
+  },
+  {
+    "No.": "49",
+    "犬種": "greyhound-italian",
+    "名前": "イタリアン・グレイハウンド",
+    "URL例": "https://images.dog.ceo/breeds/greyhound-italian/n02091032_8369.jpg"
+  },
+  {
+    "No.": "50",
+    "犬種": "groenendael",
+    "名前": "ベルジアン・シェパード",
+    "URL例": "https://images.dog.ceo/breeds/groenendael/n02105056_5371.jpg"
+  },
+  {
+    "No.": "51",
+    "犬種": "havanese",
+    "名前": "ハバニーズ",
+    "URL例": "https://images.dog.ceo/breeds/havanese/00100trPORTRAIT_00100_BURST20191112123933390_COVER.jpg"
+  },
+  {
+    "No.": "52",
+    "犬種": "hound-afghan",
+    "名前": "アフガン・ハウンド",
+    "URL例": "https://images.dog.ceo/breeds/hound-afghan/n02088094_3201.jpg"
+  },
+  {
+    "No.": "53",
+    "犬種": "hound-basset",
+    "名前": "バセット・ハウンド",
+    "URL例": "https://images.dog.ceo/breeds/hound-basset/n02088238_9717.jpg"
+  },
+  {
+    "No.": "54",
+    "犬種": "hound-blood",
+    "名前": "ブラッドハウンド",
+    "URL例": "https://images.dog.ceo/breeds/hound-blood/n02088466_9069.jpg"
+  },
+  {
+    "No.": "55",
+    "犬種": "hound-english",
+    "名前": "イングリッシュ・ハウンド",
+    "URL例": "https://images.dog.ceo/breeds/hound-english/n02089973_3299.jpg"
+  },
+  {
+    "No.": "56",
+    "犬種": "hound-ibizan",
+    "名前": "イビザン・ハウンド",
+    "URL例": "https://images.dog.ceo/breeds/hound-ibizan/n02091244_2542.jpg"
+  },
+  {
+    "No.": "57",
+    "犬種": "hound-plott",
+    "名前": "プロット・ハウンド",
+    "URL例": "https://images.dog.ceo/breeds/hound-plott/hhh_plott002.jpg"
+  },
+  {
+    "No.": "58",
+    "犬種": "hound-walker",
+    "名前": "ウォーカー・ハウンド",
+    "URL例": "https://images.dog.ceo/breeds/hound-walker/n02089867_2815.jpg"
+  },
+  {
+    "No.": "59",
+    "犬種": "husky",
+    "名前": "ハスキー",
+    "URL例": "https://images.dog.ceo/breeds/husky/n02110185_2941.jpg"
+  },
+  {
+    "No.": "60",
+    "犬種": "keeshond",
+    "名前": "キースホンド",
+    "URL例": "https://images.dog.ceo/breeds/keeshond/n02112350_9896.jpg"
+  },
+  {
+    "No.": "61",
+    "犬種": "kelpie",
+    "名前": "オーストラリアン・ケルピー",
+    "URL例": "https://images.dog.ceo/breeds/kelpie/n02105412_6431.jpg"
+  },
+  {
+    "No.": "62",
+    "犬種": "kombai",
+    "名前": "コンバイ",
+    "URL例": "https://images.dog.ceo/breeds/kombai/Kombai-indian-Dog.jpg"
+  },
+  {
+    "No.": "63",
+    "犬種": "komondor",
+    "名前": "コモンドール",
+    "URL例": "https://images.dog.ceo/breeds/komondor/n02105505_4070.jpg"
+  },
+  {
+    "No.": "64",
+    "犬種": "kuvasz",
+    "名前": "クーバース",
+    "URL例": "https://images.dog.ceo/breeds/kuvasz/n02104029_413.jpg"
+  },
+  {
+    "No.": "65",
+    "犬種": "labradoodle",
+    "名前": "ラブラドゥードル",
+    "URL例": "https://images.dog.ceo/breeds/labradoodle/Cali.jpg"
+  },
+  {
+    "No.": "66",
+    "犬種": "labrador",
+    "名前": "ラブラドール・レトリバー",
+    "URL例": "https://images.dog.ceo/breeds/labrador/n02099712_1229.jpg"
+  },
+  {
+    "No.": "67",
+    "犬種": "leonberg",
+    "名前": "レオンベルガー",
+    "URL例": "https://images.dog.ceo/breeds/leonberg/n02111129_2072.jpg"
+  },
+  {
+    "No.": "68",
+    "犬種": "lhasa",
+    "名前": "ラサ・アプソ",
+    "URL例": "https://images.dog.ceo/breeds/lhasa/n02098413_8001.jpg"
+  },
+  {
+    "No.": "69",
+    "犬種": "malamute",
+    "名前": "アラスカン・マラミュート",
+    "URL例": "https://images.dog.ceo/breeds/malamute/n02110063_938.jpg"
+  },
+  {
+    "No.": "70",
+    "犬種": "malinois",
+    "名前": "ベルジアン・マリノア",
+    "URL例": "https://images.dog.ceo/breeds/malinois/n02105162_6288.jpg"
+  },
+  {
+    "No.": "71",
+    "犬種": "maltese",
+    "名前": "マルチーズ",
+    "URL例": "https://images.dog.ceo/breeds/maltese/n02085936_1739.jpg"
+  },
+  {
+    "No.": "72",
+    "犬種": "mastiff-bull",
+    "名前": "ブルマスティフ",
+    "URL例": "https://images.dog.ceo/breeds/mastiff-bull/n02108422_628.jpg"
+  },
+  {
+    "No.": "73",
+    "犬種": "mastiff-english",
+    "名前": "イングリッシュ・マスティフ",
+    "URL例": "https://images.dog.ceo/breeds/mastiff-english/2.jpg"
+  },
+  {
+    "No.": "74",
+    "犬種": "mastiff-indian",
+    "名前": "シンド・マスティフ",
+    "URL例": "https://images.dog.ceo/breeds/mastiff-indian/Indian_Mastiff.jpg"
+  },
+  {
+    "No.": "75",
+    "犬種": "mastiff-tibetan",
+    "名前": "チベタン・マスティフ",
+    "URL例": "https://images.dog.ceo/breeds/mastiff-tibetan/n02108551_598.jpg"
+  },
+  {
+    "No.": "76",
+    "犬種": "mexicanhairless",
+    "名前": "メキシカン・ヘアレス・ドッグ",
+    "URL例": "https://images.dog.ceo/breeds/mexicanhairless/n02113978_3864.jpg"
+  },
+  {
+    "No.": "77",
+    "犬種": "mix",
+    "名前": "ミックス犬",
+    "URL例": "https://images.dog.ceo/breeds/mix/Linus1.jpg"
+  },
+  {
+    "No.": "78",
+    "犬種": "mountain-bernese",
+    "名前": "バーニーズ・マウンテン・ドッグ",
+    "URL例": "https://images.dog.ceo/breeds/mountain-bernese/n02107683_6151.jpg"
+  },
+  {
+    "No.": "80",
+    "犬種": "mountain-swiss",
+    "名前": "グレート・スイス・マウンテン・ドッグ",
+    "URL例": "https://images.dog.ceo/breeds/mountain-swiss/n02107574_2998.jpg"
+  },
+  {
+    "No.": "81",
+    "犬種": "mudhol-indian",
+    "名前": "ムドホル・ハウンド",
+    "URL例": "https://images.dog.ceo/breeds/mudhol-indian/Indian-Mudhol.jpg"
+  },
+  {
+    "No.": "82",
+    "犬種": "newfoundland",
+    "名前": "ニューファンドランド",
+    "URL例": "https://images.dog.ceo/breeds/newfoundland/n02111277_8856.jpg"
+  },
+  {
+    "No.": "83",
+    "犬種": "otterhound",
+    "名前": "オッターハウンド",
+    "URL例": "https://images.dog.ceo/breeds/otterhound/n02091635_4698.jpg"
+  },
+  {
+    "No.": "84",
+    "犬種": "ovcharka-caucasian",
+    "名前": "コーカシアン・シェパード・ドッグ",
+    "URL例": "https://images.dog.ceo/breeds/ovcharka-caucasian/IMG_20191108_140417.jpg"
+  },
+  {
+    "No.": "85",
+    "犬種": "papillon",
+    "名前": "パピヨン",
+    "URL例": "https://images.dog.ceo/breeds/papillon/n02086910_862.jpg"
+  },
+  {
+    "No.": "86",
+    "犬種": "pariah-indian",
+    "名前": "パリア",
+    "URL例": "https://images.dog.ceo/breeds/pariah-indian/The_Indian_Pariah_Dog.jpg"
+  },
+  {
+    "No.": "87",
+    "犬種": "pekinese",
+    "名前": "ペキニーズ",
+    "URL例": "https://images.dog.ceo/breeds/pekinese/n02086079_1020.jpg"
+  },
+  {
+    "No.": "88",
+    "犬種": "pembroke",
+    "名前": "ウェルシュ・コーギー・ペンブローク",
+    "URL例": "https://images.dog.ceo/breeds/pembroke/n02113023_4611.jpg"
+  },
+  {
+    "No.": "89",
+    "犬種": "pinscher-miniature",
+    "名前": "ミニチュア・ピンシャー",
+    "URL例": "https://images.dog.ceo/breeds/pinscher-miniature/n02107312_5290.jpg"
+  },
+  {
+    "No.": "90",
+    "犬種": "pitbull",
+    "名前": "アメリカン・ピット・ブル・テリア",
+    "URL例": "https://images.dog.ceo/breeds/pitbull/dog-5437227_640.jpg"
+  },
+  {
+    "No.": "91",
+    "犬種": "pointer-german",
+    "名前": "ジャーマン・ショートヘアード・ポインター",
+    "URL例": "https://images.dog.ceo/breeds/pointer-german/n02100236_521.jpg"
+  },
+  {
+    "No.": "92",
+    "犬種": "pointer-germanlonghair",
+    "名前": "ジャーマン・ロングヘアード・ポインター",
+    "URL例": "https://images.dog.ceo/breeds/pointer-germanlonghair/hans3.jpg"
+  },
+  {
+    "No.": "93",
+    "犬種": "pomeranian",
+    "名前": "ポメラニアン",
+    "URL例": "https://images.dog.ceo/breeds/pomeranian/n02112018_12519.jpg"
+  },
+  {
+    "No.": "94",
+    "犬種": "poodle-medium",
+    "名前": "ミディアムプードル",
+    "URL例": "https://images.dog.ceo/breeds/poodle-medium/WhatsApp_Image_2022-08-06_at_4.48.38_PM.jpg"
+  },
+  {
+    "No.": "95",
+    "犬種": "poodle-miniature",
+    "名前": "ミニチュア・プードル",
+    "URL例": "https://images.dog.ceo/breeds/poodle-miniature/n02113712_448.jpg"
+  },
+  {
+    "No.": "96",
+    "犬種": "poodle-standard",
+    "名前": "スタンダード・プードル",
+    "URL例": "https://images.dog.ceo/breeds/poodle-standard/n02113799_2504.jpg"
+  },
+  {
+    "No.": "97",
+    "犬種": "poodle-toy",
+    "名前": "トイプードル",
+    "URL例": "https://images.dog.ceo/breeds/poodle-toy/n02113624_429.jpg"
+  },
+  {
+    "No.": "98",
+    "犬種": "pug",
+    "名前": "パグ",
+    "URL例": "https://images.dog.ceo/breeds/pug/n02110958_12025.jpg"
+  },
+  {
+    "No.": "99",
+    "犬種": "puggle",
+    "名前": "パグル",
+    "URL例": "https://images.dog.ceo/breeds/puggle/IMG_174753.jpg"
+  },
+  {
+    "No.": "100",
+    "犬種": "pyrenees",
+    "名前": "グレート・ピレニーズ",
+    "URL例": "https://images.dog.ceo/breeds/pyrenees/n02111500_459.jpg"
+  },
+  {
+    "No.": "101",
+    "犬種": "rajapalayam-indian",
+    "名前": "ラジャパラヤム",
+    "URL例": "https://images.dog.ceo/breeds/rajapalayam-indian/Rajapalayam-dog.jpg"
+  },
+  {
+    "No.": "102",
+    "犬種": "redbone",
+    "名前": "レッドボーン・クーンハウンド",
+    "URL例": "https://images.dog.ceo/breeds/redbone/n02090379_4402.jpg"
+  },
+  {
+    "No.": "103",
+    "犬種": "retriever-chesapeake",
+    "名前": "チェサピーク・ベイ・レトリーバー",
+    "URL例": "https://images.dog.ceo/breeds/retriever-chesapeake/n02099849_4310.jpg"
+  },
+  {
+    "No.": "104",
+    "犬種": "retriever-curly",
+    "名前": "カーリーコーテッド・レトリーバー",
+    "URL例": "https://images.dog.ceo/breeds/retriever-curly/n02099429_1304.jpg"
+  },
+  {
+    "No.": "105",
+    "犬種": "retriever-flatcoated",
+    "名前": "フラットコーテッド・レトリーバー",
+    "URL例": "https://images.dog.ceo/breeds/retriever-flatcoated/n02099267_808.jpg"
+  },
+  {
+    "No.": "106",
+    "犬種": "retriever-golden",
+    "名前": "ゴールデン・レトリバー",
+    "URL例": "https://images.dog.ceo/breeds/retriever-golden/n02099601_304.jpg"
+  },
+  {
+    "No.": "107",
+    "犬種": "ridgeback-rhodesian",
+    "名前": "ローデシアン・リッジバック",
+    "URL例": "https://images.dog.ceo/breeds/ridgeback-rhodesian/n02087394_8456.jpg"
+  },
+  {
+    "No.": "108",
+    "犬種": "rottweiler",
+    "名前": "ロットワイラー",
+    "URL例": "https://images.dog.ceo/breeds/rottweiler/n02106550_6965.jpg"
+  },
+  {
+    "No.": "109",
+    "犬種": "rough-collie",
+    "名前": "ラフ・コリー",
+    "URL例": "https://images.dog.ceo/breeds/rough-collie/1Dog-rough-collie-portrait.jpg"
+  },
+  {
+    "No.": "110",
+    "犬種": "saluki",
+    "名前": "サルーキ",
+    "URL例": "https://images.dog.ceo/breeds/saluki/n02091831_2838.jpg"
+  },
+  {
+    "No.": "111",
+    "犬種": "samoyed",
+    "名前": "サモエド",
+    "URL例": "https://images.dog.ceo/breeds/samoyed/n02111889_2947.jpg"
+  },
+  {
+    "No.": "112",
+    "犬種": "schipperke",
+    "名前": "スキッパーキ",
+    "URL例": "https://images.dog.ceo/breeds/schipperke/n02104365_10598.jpg"
+  },
+  {
+    "No.": "113",
+    "犬種": "schnauzer-giant",
+    "名前": "ジャイアント・シュナウザー",
+    "URL例": "https://images.dog.ceo/breeds/schnauzer-giant/n02097130_2574.jpg"
+  },
+  {
+    "No.": "114",
+    "犬種": "schnauzer-miniature",
+    "名前": "ミニチュア・シュナウザー",
+    "URL例": "https://images.dog.ceo/breeds/schnauzer-miniature/n02097047_1527.jpg"
+  },
+  {
+    "No.": "115",
+    "犬種": "segugio-italian",
+    "名前": "セグージョ・イタリアーノ",
+    "URL例": "https://images.dog.ceo/breeds/segugio-italian/n02090722_002.jpg"
+  },
+  {
+    "No.": "116",
+    "犬種": "setter-english",
+    "名前": "イングリッシュ・セター",
+    "URL例": "https://images.dog.ceo/breeds/setter-english/n02100735_7450.jpg"
+  },
+  {
+    "No.": "117",
+    "犬種": "setter-gordon",
+    "名前": "ゴードン・セッター",
+    "URL例": "https://images.dog.ceo/breeds/setter-gordon/n02101006_1871.jpg"
+  },
+  {
+    "No.": "118",
+    "犬種": "setter-irish",
+    "名前": "アイリッシュ・セッター",
+    "URL例": "https://images.dog.ceo/breeds/setter-irish/n02100877_7033.jpg"
+  },
+  {
+    "No.": "119",
+    "犬種": "sharpei",
+    "名前": "シャー・ペイ",
+    "URL例": "https://images.dog.ceo/breeds/sharpei/noel.jpg"
+  },
+  {
+    "No.": "120",
+    "犬種": "sheepdog-english",
+    "名前": "オールド・イングリッシュ・シープドッグ",
+    "URL例": "https://images.dog.ceo/breeds/sheepdog-english/n02105641_4594.jpg"
+  },
+  {
+    "No.": "121",
+    "犬種": "sheepdog-indian",
+    "名前": "カシミール・シープドッグ",
+    "URL例": "https://images.dog.ceo/breeds/sheepdog-indian/Himalayan_Sheepdog.jpg"
+  },
+  {
+    "No.": "122",
+    "犬種": "sheepdog-shetland",
+    "名前": "シェットランド・シープドッグ",
+    "URL例": "https://images.dog.ceo/breeds/sheepdog-shetland/n02105855_2376.jpg"
+  },
+  {
+    "No.": "123",
+    "犬種": "shiba",
+    "名前": "柴犬",
+    "URL例": "https://images.dog.ceo/breeds/shiba/shiba_20.jpg"
+  },
+  {
+    "No.": "124",
+    "犬種": "shihtzu",
+    "名前": "シーズー",
+    "URL例": "https://images.dog.ceo/breeds/shihtzu/n02086240_6106.jpg"
+  },
+  {
+    "No.": "125",
+    "犬種": "spaniel-blenheim",
+    "名前": "キャバリア・キング・チャールズ・スパニエル",
+    "URL例": "https://images.dog.ceo/breeds/spaniel-blenheim/n02086646_45.jpg"
+  },
+  {
+    "No.": "126",
+    "犬種": "spaniel-brittany",
+    "名前": "ブリタニー・スパニエル",
+    "URL例": "https://images.dog.ceo/breeds/spaniel-brittany/n02101388_5541.jpg"
+  },
+  {
+    "No.": "127",
+    "犬種": "spaniel-cocker",
+    "名前": "イングリッシュ・コッカー・スパニエル",
+    "URL例": "https://images.dog.ceo/breeds/spaniel-cocker/n02102318_208.jpg"
+  },
+  {
+    "No.": "128",
+    "犬種": "spaniel-irish",
+    "名前": "アイリッシュ・ウォーター・スパニエル",
+    "URL例": "https://images.dog.ceo/breeds/spaniel-irish/n02102973_5064.jpg"
+  },
+  {
+    "No.": "129",
+    "犬種": "spaniel-japanese",
+    "名前": "チン",
+    "URL例": "https://images.dog.ceo/breeds/spaniel-japanese/n02085782_1610.jpg"
+  },
+  {
+    "No.": "130",
+    "犬種": "spaniel-sussex",
+    "名前": "サセックス・スパニエル",
+    "URL例": "https://images.dog.ceo/breeds/spaniel-sussex/n02102480_7854.jpg"
+  },
+  {
+    "No.": "131",
+    "犬種": "spaniel-welsh",
+    "名前": "ウェルシュ・スプリンガー・スパニエル",
+    "URL例": "https://images.dog.ceo/breeds/spaniel-welsh/n02102177_1471.jpg"
+  },
+  {
+    "No.": "132",
+    "犬種": "spitz-indian",
+    "名前": "インディアン・スピッツ",
+    "URL例": "https://images.dog.ceo/breeds/spitz-indian/Indian_Spitz.jpg"
+  },
+  {
+    "No.": "133",
+    "犬種": "spitz-japanese",
+    "名前": "日本スピッツ",
+    "URL例": "https://images.dog.ceo/breeds/spitz-japanese/tofu.jpg"
+  },
+  {
+    "No.": "134",
+    "犬種": "springer-english",
+    "名前": "イングリッシュ・スプリンガー・スパニエル",
+    "URL例": "https://images.dog.ceo/breeds/springer-english/n02102040_6335.jpg"
+  },
+  {
+    "No.": "135",
+    "犬種": "stbernard",
+    "名前": "セント・バーナード",
+    "URL例": "https://images.dog.ceo/breeds/stbernard/n02109525_17182.jpg"
+  },
+  {
+    "No.": "136",
+    "犬種": "terrier-american",
+    "名前": "アメリカン・スタッフォードシャー・テリア",
+    "URL例": "https://images.dog.ceo/breeds/terrier-american/n02093428_4468.jpg"
+  },
+  {
+    "No.": "137",
+    "犬種": "terrier-andalusian",
+    "名前": "アンダルシアン・マウス・ハンティング・テリア",
+    "URL例": "https://images.dog.ceo/breeds/terrier-andalusian/ratoner-bodeguero-andaluz.jpg"
+  },
+  {
+    "No.": "138",
+    "犬種": "terrier-australian",
+    "名前": "オーストラリアン・テリア",
+    "URL例": "https://images.dog.ceo/breeds/terrier-australian/n02096294_5398.jpg"
+  },
+  {
+    "No.": "139",
+    "犬種": "terrier-bedlington",
+    "名前": "ベドリントン・テリア",
+    "URL例": "https://images.dog.ceo/breeds/terrier-bedlington/n02093647_2616.jpg"
+  },
+  {
+    "No.": "140",
+    "犬種": "terrier-border",
+    "名前": "ボーダー・テリア",
+    "URL例": "https://images.dog.ceo/breeds/terrier-border/n02093754_1722.jpg"
+  },
+  {
+    "No.": "141",
+    "犬種": "terrier-boston",
+    "名前": "ボストン・テリア",
+    "URL例": "https://images.dog.ceo/breeds/terrier-boston/bostonTerrier_000001.jpg"
+  },
+  {
+    "No.": "142",
+    "犬種": "terrier-cairn",
+    "名前": "ケアーン・テリア",
+    "URL例": "https://images.dog.ceo/breeds/terrier-cairn/n02096177_6555.jpg"
+  },
+  {
+    "No.": "143",
+    "犬種": "terrier-dandie",
+    "名前": "ダンディ・ディンモント・テリア",
+    "URL例": "https://images.dog.ceo/breeds/terrier-dandie/n02096437_1613.jpg"
+  },
+  {
+    "No.": "144",
+    "犬種": "terrier-fox",
+    "名前": "フォックス・テリア",
+    "URL例": "https://images.dog.ceo/breeds/terrier-fox/n02095314_3246.jpg"
+  },
+  {
+    "No.": "145",
+    "犬種": "terrier-irish",
+    "名前": "アイリッシュ・テリア",
+    "URL例": "https://images.dog.ceo/breeds/terrier-irish/n02093991_1529.jpg"
+  },
+  {
+    "No.": "146",
+    "犬種": "terrier-kerryblue",
+    "名前": "ケリー・ブルー・テリア",
+    "URL例": "https://images.dog.ceo/breeds/terrier-kerryblue/n02093859_1655.jpg"
+  },
+  {
+    "No.": "147",
+    "犬種": "terrier-lakeland",
+    "名前": "レークランド・テリア",
+    "URL例": "https://images.dog.ceo/breeds/terrier-lakeland/n02095570_1270.jpg"
+  },
+  {
+    "No.": "148",
+    "犬種": "terrier-norfolk",
+    "名前": "ノーフォーク・テリア",
+    "URL例": "https://images.dog.ceo/breeds/terrier-norfolk/n02094114_3288.jpg"
+  },
+  {
+    "No.": "149",
+    "犬種": "terrier-norwich",
+    "名前": "ノーリッチ・テリア",
+    "URL例": "https://images.dog.ceo/breeds/terrier-norwich/n02094258_752.jpg"
+  },
+  {
+    "No.": "150",
+    "犬種": "terrier-patterdale",
+    "名前": "パタデール・テリア",
+    "URL例": "https://images.dog.ceo/breeds/terrier-patterdale/320px-05078045_Patterdale_Terrier.jpg"
+  },
+  {
+    "No.": "151",
+    "犬種": "terrier-russell",
+    "名前": "ジャック・ラッセル・テリア",
+    "URL例": "https://images.dog.ceo/breeds/terrier-russell/jack2.jpg"
+  },
+  {
+    "No.": "152",
+    "犬種": "terrier-scottish",
+    "名前": "スコティッシュ・テリア",
+    "URL例": "https://images.dog.ceo/breeds/terrier-scottish/n02097298_132.jpg"
+  },
+  {
+    "No.": "153",
+    "犬種": "terrier-sealyham",
+    "名前": "シーリハム・テリア",
+    "URL例": "https://images.dog.ceo/breeds/terrier-sealyham/n02095889_931.jpg"
+  },
+  {
+    "No.": "154",
+    "犬種": "terrier-silky",
+    "名前": "オーストラリアン・シルキー・テリア",
+    "URL例": "https://images.dog.ceo/breeds/terrier-silky/n02097658_955.jpg"
+  },
+  {
+    "No.": "155",
+    "犬種": "terrier-tibetan",
+    "名前": "チベタン・テリア",
+    "URL例": "https://images.dog.ceo/breeds/terrier-tibetan/n02097474_3055.jpg"
+  },
+  {
+    "No.": "156",
+    "犬種": "terrier-toy",
+    "名前": "トイ・マンチェスター・テリア",
+    "URL例": "https://images.dog.ceo/breeds/terrier-toy/n02087046_1666.jpg"
+  },
+  {
+    "No.": "157",
+    "犬種": "terrier-welsh",
+    "名前": "ウェルシュ・テリア",
+    "URL例": "https://images.dog.ceo/breeds/terrier-welsh/lucy.jpg"
+  },
+  {
+    "No.": "158",
+    "犬種": "terrier-westhighland",
+    "名前": "ウエスト・ハイランド・ホワイト・テリア",
+    "URL例": "https://images.dog.ceo/breeds/terrier-westhighland/n02098286_763.jpg"
+  },
+  {
+    "No.": "159",
+    "犬種": "terrier-wheaten",
+    "名前": "ソフトコーテッド・ウィートン・テリア",
+    "URL例": "https://images.dog.ceo/breeds/terrier-wheaten/n02098105_1588.jpg"
+  },
+  {
+    "No.": "160",
+    "犬種": "terrier-yorkshire",
+    "名前": "ヨークシャー・テリア",
+    "URL例": "https://images.dog.ceo/breeds/terrier-yorkshire/n02094433_6258.jpg"
+  },
+  {
+    "No.": "161",
+    "犬種": "tervuren",
+    "名前": "ベルジアン・シェパード・ドッグ・タービュレン",
+    "URL例": "https://images.dog.ceo/breeds/tervuren/maverick.jpg"
+  },
+  {
+    "No.": "162",
+    "犬種": "vizsla",
+    "名前": "ショートヘアード・ハンガリアン・ビズラ",
+    "URL例": "https://images.dog.ceo/breeds/vizsla/n02100583_830.jpg"
+  },
+  {
+    "No.": "163",
+    "犬種": "waterdog-spanish",
+    "名前": "スパニッシュ・ウォーター・ドッグ",
+    "URL例": "https://images.dog.ceo/breeds/waterdog-spanish/20190208_063211.jpg"
+  },
+  {
+    "No.": "164",
+    "犬種": "weimaraner",
+    "名前": "ワイマラナー",
+    "URL例": "https://images.dog.ceo/breeds/weimaraner/n02092339_2510.jpg"
+  },
+  {
+    "No.": "165",
+    "犬種": "whippet",
+    "名前": "ウィペット",
+    "URL例": "https://images.dog.ceo/breeds/whippet/n02091134_9793.jpg"
+  },
+  {
+    "No.": "166",
+    "犬種": "wolfhound-irish",
+    "名前": "アイリッシュ・ウルフハウンド",
+    "URL例": "https://images.dog.ceo/breeds/wolfhound-irish/n02090721_2964.jpg"
+  }
+]
