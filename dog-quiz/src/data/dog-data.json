@@ -1,662 +1,662 @@
 [
   {
     "key": "affenpinscher",
-    "name": "アーフェンピンシャー",
+    "name": "アーフェンピンシャー"
   },
   {
-    "key: "african-wild",
-    "name": "アフリカワイルド",
+    "key": "african-wild",
+    "name": "アフリカワイルド"
   },
   {
-    "key: "airedale",
-    "name": "エアデール・テリア",
+    "key": "airedale",
+    "name": "エアデール・テリア"
   },
   {
-    "key: "akita",
-    "name": "秋田犬",
+    "key": "akita",
+    "name": "秋田犬"
   },
   {
-    "key: "appenzeller",
-    "name": "アッペンツェラー",
+    "key": "appenzeller",
+    "name": "アッペンツェラー"
   },
   {
-    "key: "australian-kelpie",
-    "name": "オーストラリアン・ケルピー",
+    "key": "australian-kelpie",
+    "name": "オーストラリアン・ケルピー"
   },
   {
-    "key: "australian-shepherd",
-    "name": "オーストラリアン・シェパード",
+    "key": "australian-shepherd",
+    "name": "オーストラリアン・シェパード"
   },
   {
-    "key: "bakharwal-indian",
-    "name": "カシミール・シープドッグ",
+    "key": "bakharwal-indian",
+    "name": "カシミール・シープドッグ"
   },
   {
-    "key: "basenji",
-    "name": "バセンジー",
+    "key": "basenji",
+    "name": "バセンジー"
   },
   {
-    "key: "beagle",
-    "name": "ビーグル",
+    "key": "beagle",
+    "name": "ビーグル"
   },
   {
-    "key: "bluetick",
-    "name": "ブルーティック・クーンハウンド",
+    "key": "bluetick",
+    "name": "ブルーティック・クーンハウンド"
   },
   {
-    "key: "borzoi",
-    "name": "ボルゾイ",
+    "key": "borzoi",
+    "name": "ボルゾイ"
   },
   {
-    "key: "bouvier",
-    "name": "ブービエ・デ・フランダース",
+    "key": "bouvier",
+    "name": "ブービエ・デ・フランダース"
   },
   {
-    "key: "boxer",
-    "name": "ボクサー",
+    "key": "boxer",
+    "name": "ボクサー"
   },
   {
-    "key: "brabancon",
-    "name": "プチブラバンソン",
+    "key": "brabancon",
+    "name": "プチブラバンソン"
   },
   {
-    "key: "briard",
-    "name": "ブリアード",
+    "key": "briard",
+    "name": "ブリアード"
   },
   {
-    "key: "buhund-norwegian",
-    "name": "ノルウェジアン・ブーフント",
+    "key": "buhund-norwegian",
+    "name": "ノルウェジアン・ブーフント"
   },
   {
-    "key: "bulldog-boston",
-    "name": "ボストンテリア",
+    "key": "bulldog-boston",
+    "name": "ボストンテリア"
   },
   {
-    "key: "bulldog-english",
-    "name": "イングリッシュブルドッグ",
+    "key": "bulldog-english",
+    "name": "イングリッシュブルドッグ"
   },
   {
-    "key: "bulldog-french",
-    "name": "フレンチブルドッグ",
+    "key": "bulldog-french",
+    "name": "フレンチブルドッグ"
   },
   {
-    "key: "bullterrier-staffordshire",
-    "name": "スタッフォードシャー・ブル・テリア",
+    "key": "bullterrier-staffordshire",
+    "name": "スタッフォードシャー・ブル・テリア"
   },
   {
-    "key: "cattledog-australian",
-    "name": "オーストラリアン・キャトル・ドッグ",
+    "key": "cattledog-australian",
+    "name": "オーストラリアン・キャトル・ドッグ"
   },
   {
-    "key: "cavapoo",
-    "name": "キャバプー",
+    "key": "cavapoo",
+    "name": "キャバプー"
   },
   {
-    "key: "chihuahua",
-    "name": "チワワ",
+    "key": "chihuahua",
+    "name": "チワワ"
   },
   {
-    "key: "chippiparai-indian",
-    "name": "チッピパライ・ハウンド",
+    "key": "chippiparai-indian",
+    "name": "チッピパライ・ハウンド"
   },
   {
-    "key: "chow",
-    "name": "チャウチャウ",
+    "key": "chow",
+    "name": "チャウチャウ"
   },
   {
-    "key: "clumber",
-    "name": "クランバー・スパニエル",
+    "key": "clumber",
+    "name": "クランバー・スパニエル"
   },
   {
-    "key: "cockapoo",
-    "name": "コッカープー",
+    "key": "cockapoo",
+    "name": "コッカープー"
   },
   {
-    "key: "collie-border",
-    "name": "ボーダー・コリー",
+    "key": "collie-border",
+    "name": "ボーダー・コリー"
   },
   {
-    "key: "coonhound",
-    "name": "クーンハウンド",
+    "key": "coonhound",
+    "name": "クーンハウンド"
   },
   {
-    "key: "corgi-cardigan",
-    "name": "コーギー・カーディガン",
+    "key": "corgi-cardigan",
+    "name": "コーギー・カーディガン"
   },
   {
-    "key: "cotondetulear",
-    "name": "コトン・ド・テュレアール",
+    "key": "cotondetulear",
+    "name": "コトン・ド・テュレアール"
   },
   {
-    "key: "dachshund",
-    "name": "ダックスフント",
+    "key": "dachshund",
+    "name": "ダックスフント"
   },
   {
-    "key: "dalmatian",
-    "name": "ダルメシアン",
+    "key": "dalmatian",
+    "name": "ダルメシアン"
   },
   {
-    "key: "dane-great",
-    "name": "グレート・デーン",
+    "key": "dane-great",
+    "name": "グレート・デーン"
   },
   {
-    "key: "danish-swedish-farmdog",
-    "name": "ダンスク・スヴェンスク・ゴールフンド",
+    "key": "danish-swedish-farmdog",
+    "name": "ダンスク・スヴェンスク・ゴールフンド"
   },
   {
-    "key: "deerhound-scottish",
-    "name": "スコティッシュ・ディアハウンド",
+    "key": "deerhound-scottish",
+    "name": "スコティッシュ・ディアハウンド"
   },
   {
-    "key: "dhole",
-    "name": "ドール",
+    "key": "dhole",
+    "name": "ドール"
   },
   {
-    "key: "dingo",
-    "name": "ディンゴ",
+    "key": "dingo",
+    "name": "ディンゴ"
   },
   {
-    "key: "doberman",
-    "name": "ドーベルマン",
+    "key": "doberman",
+    "name": "ドーベルマン"
   },
   {
-    "key: "elkhound-norwegian",
-    "name": "ノルウェジアン・エルクハウンド",
+    "key": "elkhound-norwegian",
+    "name": "ノルウェジアン・エルクハウンド"
   },
   {
-    "key: "entlebucher",
-    "name": "エントレブッハー・キャトル・ドッグ",
+    "key": "entlebucher",
+    "name": "エントレブッハー・キャトル・ドッグ"
   },
   {
-    "key: "eskimo",
-    "name": "アメリカン・エスキモー・ドッグ",
+    "key": "eskimo",
+    "name": "アメリカン・エスキモー・ドッグ"
   },
   {
-    "key: "finnish-lapphund",
-    "name": "フィニッシュ・ラップフンド",
+    "key": "finnish-lapphund",
+    "name": "フィニッシュ・ラップフンド"
   },
   {
-    "key: "frise-bichon",
-    "name": "ビション・フリーゼ",
+    "key": "frise-bichon",
+    "name": "ビション・フリーゼ"
   },
   {
-    "key: "gaddi-indian",
-    "name": "ヒマラヤン・シープドッグ",
+    "key": "gaddi-indian",
+    "name": "ヒマラヤン・シープドッグ"
   },
   {
-    "key: "german-shepherd",
-    "name": "ジャーマンシェパード",
+    "key": "german-shepherd",
+    "name": "ジャーマンシェパード"
   },
   {
-    "key: "greyhound-indian",
-    "name": "インディアン・グレイハウンド",
+    "key": "greyhound-indian",
+    "name": "インディアン・グレイハウンド"
   },
   {
-    "key: "greyhound-italian",
-    "name": "イタリアン・グレイハウンド",
+    "key": "greyhound-italian",
+    "name": "イタリアン・グレイハウンド"
   },
   {
-    "key: "groenendael",
-    "name": "ベルジアン・シェパード",
+    "key": "groenendael",
+    "name": "ベルジアン・シェパード"
   },
   {
-    "key: "havanese",
-    "name": "ハバニーズ",
+    "key": "havanese",
+    "name": "ハバニーズ"
   },
   {
-    "key: "hound-afghan",
-    "name": "アフガン・ハウンド",
+    "key": "hound-afghan",
+    "name": "アフガン・ハウンド"
   },
   {
-    "key: "hound-basset",
-    "name": "バセット・ハウンド",
+    "key": "hound-basset",
+    "name": "バセット・ハウンド"
   },
   {
-    "key: "hound-blood",
-    "name": "ブラッドハウンド",
+    "key": "hound-blood",
+    "name": "ブラッドハウンド"
   },
   {
-    "key: "hound-english",
-    "name": "イングリッシュ・ハウンド",
+    "key": "hound-english",
+    "name": "イングリッシュ・ハウンド"
   },
   {
-    "key: "hound-ibizan",
-    "name": "イビザン・ハウンド",
+    "key": "hound-ibizan",
+    "name": "イビザン・ハウンド"
   },
   {
-    "key: "hound-plott",
-    "name": "プロット・ハウンド",
+    "key": "hound-plott",
+    "name": "プロット・ハウンド"
   },
   {
-    "key: "hound-walker",
-    "name": "ウォーカー・ハウンド",
+    "key": "hound-walker",
+    "name": "ウォーカー・ハウンド"
   },
   {
-    "key: "husky",
-    "name": "ハスキー",
+    "key": "husky",
+    "name": "ハスキー"
   },
   {
-    "key: "keeshond",
-    "name": "キースホンド",
+    "key": "keeshond",
+    "name": "キースホンド"
   },
   {
-    "key: "kelpie",
-    "name": "オーストラリアン・ケルピー",
+    "key": "kelpie",
+    "name": "オーストラリアン・ケルピー"
   },
   {
-    "key: "kombai",
-    "name": "コンバイ",
+    "key": "kombai",
+    "name": "コンバイ"
   },
   {
-    "key: "komondor",
-    "name": "コモンドール",
+    "key": "komondor",
+    "name": "コモンドール"
   },
   {
-    "key: "kuvasz",
-    "name": "クーバース",
+    "key": "kuvasz",
+    "name": "クーバース"
   },
   {
-    "key: "labradoodle",
-    "name": "ラブラドゥードル",
+    "key": "labradoodle",
+    "name": "ラブラドゥードル"
   },
   {
-    "key: "labrador",
-    "name": "ラブラドール・レトリバー",
+    "key": "labrador",
+    "name": "ラブラドール・レトリバー"
   },
   {
-    "key: "leonberg",
-    "name": "レオンベルガー",
+    "key": "leonberg",
+    "name": "レオンベルガー"
   },
   {
-    "key: "lhasa",
-    "name": "ラサ・アプソ",
+    "key": "lhasa",
+    "name": "ラサ・アプソ"
   },
   {
-    "key: "malamute",
-    "name": "アラスカン・マラミュート",
+    "key": "malamute",
+    "name": "アラスカン・マラミュート"
   },
   {
-    "key: "malinois",
-    "name": "ベルジアン・マリノア",
+    "key": "malinois",
+    "name": "ベルジアン・マリノア"
   },
   {
-    "key: "maltese",
-    "name": "マルチーズ",
+    "key": "maltese",
+    "name": "マルチーズ"
   },
   {
-    "key: "mastiff-bull",
-    "name": "ブルマスティフ",
+    "key": "mastiff-bull",
+    "name": "ブルマスティフ"
   },
   {
-    "key: "mastiff-english",
-    "name": "イングリッシュ・マスティフ",
+    "key": "mastiff-english",
+    "name": "イングリッシュ・マスティフ"
   },
   {
-    "key: "mastiff-indian",
-    "name": "シンド・マスティフ",
+    "key": "mastiff-indian",
+    "name": "シンド・マスティフ"
   },
   {
-    "key: "mastiff-tibetan",
-    "name": "チベタン・マスティフ",
+    "key": "mastiff-tibetan",
+    "name": "チベタン・マスティフ"
   },
   {
-    "key: "mexicanhairless",
-    "name": "メキシカン・ヘアレス・ドッグ",
+    "key": "mexicanhairless",
+    "name": "メキシカン・ヘアレス・ドッグ"
   },
   {
-    "key: "mix",
-    "name": "ミックス犬",
+    "key": "mix",
+    "name": "ミックス犬"
   },
   {
-    "key: "mountain-bernese",
-    "name": "バーニーズ・マウンテン・ドッグ",
+    "key": "mountain-bernese",
+    "name": "バーニーズ・マウンテン・ドッグ"
   },
   {
-    "key: "mountain-swiss",
-    "name": "グレート・スイス・マウンテン・ドッグ",
+    "key": "mountain-swiss",
+    "name": "グレート・スイス・マウンテン・ドッグ"
   },
   {
-    "key: "mudhol-indian",
-    "name": "ムドホル・ハウンド",
+    "key": "mudhol-indian",
+    "name": "ムドホル・ハウンド"
   },
   {
-    "key: "newfoundland",
-    "name": "ニューファンドランド",
+    "key": "newfoundland",
+    "name": "ニューファンドランド"
   },
   {
-    "key: "otterhound",
-    "name": "オッターハウンド",
+    "key": "otterhound",
+    "name": "オッターハウンド"
   },
   {
-    "key: "ovcharka-caucasian",
-    "name": "コーカシアン・シェパード・ドッグ",
+    "key": "ovcharka-caucasian",
+    "name": "コーカシアン・シェパード・ドッグ"
   },
   {
-    "key: "papillon",
-    "name": "パピヨン",
+    "key": "papillon",
+    "name": "パピヨン"
   },
   {
-    "key: "pariah-indian",
-    "name": "パリア",
+    "key": "pariah-indian",
+    "name": "パリア"
   },
   {
-    "key: "pekinese",
-    "name": "ペキニーズ",
+    "key": "pekinese",
+    "name": "ペキニーズ"
   },
   {
-    "key: "pembroke",
-    "name": "ウェルシュ・コーギー・ペンブローク",
+    "key": "pembroke",
+    "name": "ウェルシュ・コーギー・ペンブローク"
   },
   {
-    "key: "pinscher-miniature",
-    "name": "ミニチュア・ピンシャー",
+    "key": "pinscher-miniature",
+    "name": "ミニチュア・ピンシャー"
   },
   {
-    "key: "pitbull",
-    "name": "アメリカン・ピット・ブル・テリア",
+    "key": "pitbull",
+    "name": "アメリカン・ピット・ブル・テリア"
   },
   {
-    "key: "pointer-german",
-    "name": "ジャーマン・ショートヘアード・ポインター",
+    "key": "pointer-german",
+    "name": "ジャーマン・ショートヘアード・ポインター"
   },
   {
-    "key: "pointer-germanlonghair",
-    "name": "ジャーマン・ロングヘアード・ポインター",
+    "key": "pointer-germanlonghair",
+    "name": "ジャーマン・ロングヘアード・ポインター"
   },
   {
-    "key: "pomeranian",
-    "name": "ポメラニアン",
+    "key": "pomeranian",
+    "name": "ポメラニアン"
   },
   {
-    "key: "poodle-medium",
-    "name": "ミディアムプードル",
+    "key": "poodle-medium",
+    "name": "ミディアムプードル"
   },
   {
-    "key: "poodle-miniature",
-    "name": "ミニチュア・プードル",
+    "key": "poodle-miniature",
+    "name": "ミニチュア・プードル"
   },
   {
-    "key: "poodle-standard",
-    "name": "スタンダード・プードル",
+    "key": "poodle-standard",
+    "name": "スタンダード・プードル"
   },
   {
-    "key: "poodle-toy",
-    "name": "トイプードル",
+    "key": "poodle-toy",
+    "name": "トイプードル"
   },
   {
-    "key: "pug",
-    "name": "パグ",
+    "key": "pug",
+    "name": "パグ"
   },
   {
-    "key: "puggle",
-    "name": "パグル",
+    "key": "puggle",
+    "name": "パグル"
   },
   {
-    "key: "pyrenees",
-    "name": "グレート・ピレニーズ",
+    "key": "pyrenees",
+    "name": "グレート・ピレニーズ"
   },
   {
-    "key: "rajapalayam-indian",
-    "name": "ラジャパラヤム",
+    "key": "rajapalayam-indian",
+    "name": "ラジャパラヤム"
   },
   {
-    "key: "redbone",
-    "name": "レッドボーン・クーンハウンド",
+    "key": "redbone",
+    "name": "レッドボーン・クーンハウンド"
   },
   {
-    "key: "retriever-chesapeake",
-    "name": "チェサピーク・ベイ・レトリーバー",
+    "key": "retriever-chesapeake",
+    "name": "チェサピーク・ベイ・レトリーバー"
   },
   {
-    "key: "retriever-curly",
-    "name": "カーリーコーテッド・レトリーバー",
+    "key": "retriever-curly",
+    "name": "カーリーコーテッド・レトリーバー"
   },
   {
-    "key: "retriever-flatcoated",
-    "name": "フラットコーテッド・レトリーバー",
+    "key": "retriever-flatcoated",
+    "name": "フラットコーテッド・レトリーバー"
   },
   {
-    "key: "retriever-golden",
-    "name": "ゴールデン・レトリバー",
+    "key": "retriever-golden",
+    "name": "ゴールデン・レトリバー"
   },
   {
-    "key: "ridgeback-rhodesian",
-    "name": "ローデシアン・リッジバック",
+    "key": "ridgeback-rhodesian",
+    "name": "ローデシアン・リッジバック"
   },
   {
-    "key: "rottweiler",
-    "name": "ロットワイラー",
+    "key": "rottweiler",
+    "name": "ロットワイラー"
   },
   {
-    "key: "rough-collie",
-    "name": "ラフ・コリー",
+    "key": "rough-collie",
+    "name": "ラフ・コリー"
   },
   {
-    "key: "saluki",
-    "name": "サルーキ",
+    "key": "saluki",
+    "name": "サルーキ"
   },
   {
-    "key: "samoyed",
-    "name": "サモエド",
+    "key": "samoyed",
+    "name": "サモエド"
   },
   {
-    "key: "schipperke",
-    "name": "スキッパーキ",
+    "key": "schipperke",
+    "name": "スキッパーキ"
   },
   {
-    "key: "schnauzer-giant",
-    "name": "ジャイアント・シュナウザー",
+    "key": "schnauzer-giant",
+    "name": "ジャイアント・シュナウザー"
   },
   {
-    "key: "schnauzer-miniature",
-    "name": "ミニチュア・シュナウザー",
+    "key": "schnauzer-miniature",
+    "name": "ミニチュア・シュナウザー"
   },
   {
-    "key: "segugio-italian",
-    "name": "セグージョ・イタリアーノ",
+    "key": "segugio-italian",
+    "name": "セグージョ・イタリアーノ"
   },
   {
-    "key: "setter-english",
-    "name": "イングリッシュ・セター",
+    "key": "setter-english",
+    "name": "イングリッシュ・セター"
   },
   {
-    "key: "setter-gordon",
-    "name": "ゴードン・セッター",
+    "key": "setter-gordon",
+    "name": "ゴードン・セッター"
   },
   {
-    "key: "setter-irish",
-    "name": "アイリッシュ・セッター",
+    "key": "setter-irish",
+    "name": "アイリッシュ・セッター"
   },
   {
-    "key: "sharpei",
-    "name": "シャー・ペイ",
+    "key": "sharpei",
+    "name": "シャー・ペイ"
   },
   {
-    "key: "sheepdog-english",
-    "name": "オールド・イングリッシュ・シープドッグ",
+    "key": "sheepdog-english",
+    "name": "オールド・イングリッシュ・シープドッグ"
   },
   {
-    "key: "sheepdog-indian",
-    "name": "カシミール・シープドッグ",
+    "key": "sheepdog-indian",
+    "name": "カシミール・シープドッグ"
   },
   {
-    "key: "sheepdog-shetland",
-    "name": "シェットランド・シープドッグ",
+    "key": "sheepdog-shetland",
+    "name": "シェットランド・シープドッグ"
   },
   {
-    "key: "shiba",
-    "name": "柴犬",
+    "key": "shiba",
+    "name": "柴犬"
   },
   {
-    "key: "shihtzu",
-    "name": "シーズー",
+    "key": "shihtzu",
+    "name": "シーズー"
   },
   {
-    "key: "spaniel-blenheim",
-    "name": "キャバリア・キング・チャールズ・スパニエル",
+    "key": "spaniel-blenheim",
+    "name": "キャバリア・キング・チャールズ・スパニエル"
   },
   {
-    "key: "spaniel-brittany",
-    "name": "ブリタニー・スパニエル",
+    "key": "spaniel-brittany",
+    "name": "ブリタニー・スパニエル"
   },
   {
-    "key: "spaniel-cocker",
-    "name": "イングリッシュ・コッカー・スパニエル",
+    "key": "spaniel-cocker",
+    "name": "イングリッシュ・コッカー・スパニエル"
   },
   {
-    "key: "spaniel-irish",
-    "name": "アイリッシュ・ウォーター・スパニエル",
+    "key": "spaniel-irish",
+    "name": "アイリッシュ・ウォーター・スパニエル"
   },
   {
-    "key: "spaniel-japanese",
-    "name": "チン",
+    "key": "spaniel-japanese",
+    "name": "チン"
   },
   {
-    "key: "spaniel-sussex",
-    "name": "サセックス・スパニエル",
+    "key": "spaniel-sussex",
+    "name": "サセックス・スパニエル"
   },
   {
-    "key: "spaniel-welsh",
-    "name": "ウェルシュ・スプリンガー・スパニエル",
+    "key": "spaniel-welsh",
+    "name": "ウェルシュ・スプリンガー・スパニエル"
   },
   {
-    "key: "spitz-indian",
-    "name": "インディアン・スピッツ",
+    "key": "spitz-indian",
+    "name": "インディアン・スピッツ"
   },
   {
-    "key: "spitz-japanese",
-    "name": "日本スピッツ",
+    "key": "spitz-japanese",
+    "name": "日本スピッツ"
   },
   {
-    "key: "springer-english",
-    "name": "イングリッシュ・スプリンガー・スパニエル",
+    "key": "springer-english",
+    "name": "イングリッシュ・スプリンガー・スパニエル"
   },
   {
-    "key: "stbernard",
-    "name": "セント・バーナード",
+    "key": "stbernard",
+    "name": "セント・バーナード"
   },
   {
-    "key: "terrier-american",
-    "name": "アメリカン・スタッフォードシャー・テリア",
+    "key": "terrier-american",
+    "name": "アメリカン・スタッフォードシャー・テリア"
   },
   {
-    "key: "terrier-andalusian",
-    "name": "アンダルシアン・マウス・ハンティング・テリア",
+    "key": "terrier-andalusian",
+    "name": "アンダルシアン・マウス・ハンティング・テリア"
   },
   {
-    "key: "terrier-australian",
-    "name": "オーストラリアン・テリア",
+    "key": "terrier-australian",
+    "name": "オーストラリアン・テリア"
   },
   {
-    "key: "terrier-bedlington",
-    "name": "ベドリントン・テリア",
+    "key": "terrier-bedlington",
+    "name": "ベドリントン・テリア"
   },
   {
-    "key: "terrier-border",
-    "name": "ボーダー・テリア",
+    "key": "terrier-border",
+    "name": "ボーダー・テリア"
   },
   {
-    "key: "terrier-boston",
-    "name": "ボストン・テリア",
+    "key": "terrier-boston",
+    "name": "ボストン・テリア"
   },
   {
-    "key: "terrier-cairn",
-    "name": "ケアーン・テリア",
+    "key": "terrier-cairn",
+    "name": "ケアーン・テリア"
   },
   {
-    "key: "terrier-dandie",
-    "name": "ダンディ・ディンモント・テリア",
+    "key": "terrier-dandie",
+    "name": "ダンディ・ディンモント・テリア"
   },
   {
-    "key: "terrier-fox",
-    "name": "フォックス・テリア",
+    "key": "terrier-fox",
+    "name": "フォックス・テリア"
   },
   {
-    "key: "terrier-irish",
-    "name": "アイリッシュ・テリア",
+    "key": "terrier-irish",
+    "name": "アイリッシュ・テリア"
   },
   {
-    "key: "terrier-kerryblue",
-    "name": "ケリー・ブルー・テリア",
+    "key": "terrier-kerryblue",
+    "name": "ケリー・ブルー・テリア"
   },
   {
-    "key: "terrier-lakeland",
-    "name": "レークランド・テリア",
+    "key": "terrier-lakeland",
+    "name": "レークランド・テリア"
   },
   {
-    "key: "terrier-norfolk",
-    "name": "ノーフォーク・テリア",
+    "key": "terrier-norfolk",
+    "name": "ノーフォーク・テリア"
   },
   {
-    "key: "terrier-norwich",
-    "name": "ノーリッチ・テリア",
+    "key": "terrier-norwich",
+    "name": "ノーリッチ・テリア"
   },
   {
-    "key: "terrier-patterdale",
-    "name": "パタデール・テリア",
+    "key": "terrier-patterdale",
+    "name": "パタデール・テリア"
   },
   {
-    "key: "terrier-russell",
-    "name": "ジャック・ラッセル・テリア",
+    "key": "terrier-russell",
+    "name": "ジャック・ラッセル・テリア"
   },
   {
-    "key: "terrier-scottish",
-    "name": "スコティッシュ・テリア",
+    "key": "terrier-scottish",
+    "name": "スコティッシュ・テリア"
   },
   {
-    "key: "terrier-sealyham",
-    "name": "シーリハム・テリア",
+    "key": "terrier-sealyham",
+    "name": "シーリハム・テリア"
   },
   {
-    "key: "terrier-silky",
-    "name": "オーストラリアン・シルキー・テリア",
+    "key": "terrier-silky",
+    "name": "オーストラリアン・シルキー・テリア"
   },
   {
-    "key: "terrier-tibetan",
-    "name": "チベタン・テリア",
+    "key": "terrier-tibetan",
+    "name": "チベタン・テリア"
   },
   {
-    "key: "terrier-toy",
-    "name": "トイ・マンチェスター・テリア",
+    "key": "terrier-toy",
+    "name": "トイ・マンチェスター・テリア"
   },
   {
-    "key: "terrier-welsh",
-    "name": "ウェルシュ・テリア",
+    "key": "terrier-welsh",
+    "name": "ウェルシュ・テリア"
   },
   {
-    "key: "terrier-westhighland",
-    "name": "ウエスト・ハイランド・ホワイト・テリア",
+    "key": "terrier-westhighland",
+    "name": "ウエスト・ハイランド・ホワイト・テリア"
   },
   {
-    "key: "terrier-wheaten",
-    "name": "ソフトコーテッド・ウィートン・テリア",
+    "key": "terrier-wheaten",
+    "name": "ソフトコーテッド・ウィートン・テリア"
   },
   {
-    "key: "terrier-yorkshire",
-    "name": "ヨークシャー・テリア",
+    "key": "terrier-yorkshire",
+    "name": "ヨークシャー・テリア"
   },
   {
-    "key: "tervuren",
-    "name": "ベルジアン・シェパード・ドッグ・タービュレン",
+    "key": "tervuren",
+    "name": "ベルジアン・シェパード・ドッグ・タービュレン"
   },
   {
-    "key: "vizsla",
-    "name": "ショートヘアード・ハンガリアン・ビズラ",
+    "key": "vizsla",
+    "name": "ショートヘアード・ハンガリアン・ビズラ"
   },
   {
-    "key: "waterdog-spanish",
-    "name": "スパニッシュ・ウォーター・ドッグ",
+    "key": "waterdog-spanish",
+    "name": "スパニッシュ・ウォーター・ドッグ"
   },
   {
-    "key: "weimaraner",
-    "name": "ワイマラナー",
+    "key": "weimaraner",
+    "name": "ワイマラナー"
   },
   {
-    "key: "whippet",
-    "name": "ウィペット",
+    "key": "whippet",
+    "name": "ウィペット"
   },
   {
-    "key: "wolfhound-irish",
-    "name": "アイリッシュ・ウルフハウンド",
+    "key": "wolfhound-irish",
+    "name": "アイリッシュ・ウルフハウンド"
   }
 ]
