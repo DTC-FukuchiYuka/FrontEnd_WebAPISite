@@ -20,7 +20,7 @@
   position: relative;
   width: 30px;
   height: 30px;
-  border: 2px solid #0c0c0c; /* 枠の調整 */
+  border: 2px solid #333; /* 枠の調整 */
   border-radius: 50%; /* 丸みの度合い */
   background: #fff; /* ボタンの背景色 */
 }
@@ -33,7 +33,7 @@
   left: 50%;
   width: 3px; /* 棒の幅（太さ） */
   height: 22px; /* 棒の高さ */
-  background: #0c0c0c; /* バツ印の色 */
+  background: #333; /* バツ印の色 */
 }
 
 .round_btn::before {
