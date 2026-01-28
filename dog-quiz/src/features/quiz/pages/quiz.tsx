@@ -3,15 +3,16 @@ import Result from "../../result/Result";
 import "./quiz.css";
 import { useEffect, useState } from "react";
 import dogBreeds from "../../../data/dog-data.json";
-import correctImage from "dog-quiz/src/assets/animal_quiz_maru.png";
-import incorrectImage from "dog-quiz/src/assets/animal_quiz_batu.png";
+import correctImage from "../../../assets/animal_quiz_maru.png";
+import incorrectImage from "../../../assets/animal_quiz_batsu.png";
+
 
 const Quiz: React.FC = () => {
   const navigate = useNavigate();
   const [currentQuestion, setCurrentQuestion] = useState(0);
   const [correctAnswers, setCorrectAnswers] = useState(0);
   const [isQuizCompleted, setIsQuizCompleted] = useState(false);
-  const [quizData, setQuizData] = useState("");
+  const [quizData, setQuizData] = useState<Array<{ imageUrl: string; options: Array<{ key: string; name: string }> }>>([]);
   const [selectedImage, setSelectedImage] = useState("");
   const [correctBreed, setCorrectBreed] = useState("");
   const [feedbackImage, setFeedbackImage] = useState<string | null>(null); // 〇か✕の画像表示用
@@ -92,7 +93,7 @@ const Quiz: React.FC = () => {
         <img src = {selectedImage} alt = "クイズ画像" className = "quiz-image"/>
       )}
       <div className = "quiz-options">
-        {quizData[0]?.options.map((option: any, index: number) => (
+        {quizData[0]?.options.map((option: { key: string; name: string }, index: number) => (
           <button 
           key ={index}
           className = "quiz-option"

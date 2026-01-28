@@ -1,5 +1,5 @@
 import { useNavigate } from "react-router-dom";
-import "./resutl.css";
+import "./result.css";
 
 /*
 コンポーネント
@@ -24,7 +24,8 @@ const Result: React.FC <{ correctAnswers: number}> = ({correctAnswers}) =>{
     };
 
     return (
-        <>    // divが複数ある場合、<></> or <div></div>でまとめる
+        <>   
+        {/*  divが複数ある場合、<></> or <div></div>でまとめる*/ }
         <div className = "result-container">
             <h2>結果発表</h2>
             <p>正解数: {correctAnswers}</p>
