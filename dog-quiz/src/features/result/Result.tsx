@@ -36,8 +36,11 @@ const Result: React.FC <{ correctAnswers: number}> = ({correctAnswers}) =>{
             <button className="share-button" onClick={() => handleShare()}>
                 共有する
             </button>
-            <button className="share-button" onClick={() => navigate("/")}>
+            <button className="top-button" onClick={() => navigate("/")}>
                 トップへ戻る
+            </button>
+            <button className = "retry-button" onClick={() => {localStorage.setItem("point", "0"); navigate("/quiz"); }}>
+                再挑戦する
             </button>
 
         </div>
