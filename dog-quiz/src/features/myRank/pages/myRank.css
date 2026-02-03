@@ -44,7 +44,8 @@
 }
 
 .share-button,
-.back-button {
+.back-button,
+.retry-button {
   width: 150px;
   margin-top: 10px;
   padding: 10px;
@@ -74,7 +75,18 @@
   color: white;
 }
 
+.retry-button {
+  background-color: #c781b4;
+  border-color: #f443ca;
+}
+
+.retry-button:hover {
+  background-color: #f443ca;
+  color: #c781b4;
+}
+
 .badge-image {
   width: 120px;
   object-fit: contain;
 }
+

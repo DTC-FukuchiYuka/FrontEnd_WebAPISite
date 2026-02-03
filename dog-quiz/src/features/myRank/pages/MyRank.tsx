@@ -95,6 +95,9 @@ const MyRank: React.FC = () => {
         <button className="back-button" onClick={() => navigate("/")}>
           トップに戻る
         </button>
+        <button className = "retry-button" onClick={() => {localStorage.setItem("point", "0"); navigate("/quiz"); }}>
+                再挑戦する
+        </button>
       </div>
     </div>
   );

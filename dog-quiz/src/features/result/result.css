@@ -97,34 +97,49 @@
 
 .button-container {
   display: flex;
-  gap: 12px;
-  justify-content: center;
-  margin-top: 20px;
+  flex-direction: column; /* 縦並びにする */
+  align-items: center; /* 中央揃え */
+  gap: 10px; /* ボタン間の余白 */
+}
+
+.share-button,
+.back-button,
+.retry-button {
+  width: 150px;
+  margin-top: 10px;
+  padding: 10px;
+  font-size: 16px;
+  border: 2px solid transparent;
+  border-radius: 5px;
+  cursor: pointer;
 }
 
 .share-button {
-  background-color: #58c2ef;
-  color: #fff;
-  border: none;
-  padding: 10px 16px;
-  border-radius: 6px;
-  cursor: pointer;
+  background-color: #e6f7e6;
+  border-color: #a7d7a7;
+}
+
+.share-button:hover {
+  background-color: #a7d7a7;
+  color: white;
+}
+
+.back-button {
+  background-color: #d6e4ff;
+  border-color: #91caff;
+}
+
+.back-button:hover {
+  background-color: #91caff;
+  color: white;
 }
 
 .retry-button {
-  background-color: #58ef58;
-  color: #fff;
-  border: none;
-  padding: 10px 16px;
-  border-radius: 6px;
-  cursor: pointer;
+  background-color: #c781b4;
+  border-color: #f443ca;
 }
 
-.retry-button {
-  background-color: #b64d88;
-  color: #fff;
-  border: none;
-  padding: 10px 16px;
-  border-radius: 6px;
-  cursor: pointer;
+.retry-button:hover {
+  background-color: #f443ca;
+  color: #c781b4;
 }
