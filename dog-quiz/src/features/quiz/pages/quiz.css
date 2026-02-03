@@ -18,10 +18,10 @@
 .round_btn {
   display: block;
   position: relative;
-  width: 30px;
+  width: 20px;
   height: 30px;
   border: 2px solid #0c0c0c; /* 枠の調整 */
-  border-radius: 50%; /* 丸みの度合い */
+  border-radius: 70%; /* 丸みの度合い */
   background: #fff; /* ボタンの背景色 */
 }
 
@@ -85,12 +85,22 @@
   margin-top: 20px;
 }
 
+/**正解時のハイライト（青枠）*/
+.option-correct {
+  border: 2px solid #007bff;
+}
+
+/**正解時のハイライト（青枠）*/
+.option-wrong {
+  border: 2px solid #e73606;
+}
+
 .feedback-image {
   position: absolute;
   top: 50%;
   left: 50%;
-  width: 450px;
-  height: 450px;
+  width: 400px;
+  height: 400px;
   transform: translate(-50%, -50%);
   z-index: 10;
 }

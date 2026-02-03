@@ -94,3 +94,37 @@
   transform: translate(-50%, -50%);
   z-index: 10;
 }
+
+.button-container {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.share-button {
+  background-color: #58c2ef;
+  color: #fff;
+  border: none;
+  padding: 10px 16px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.retry-button {
+  background-color: #58ef58;
+  color: #fff;
+  border: none;
+  padding: 10px 16px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.retry-button {
+  background-color: #b64d88;
+  color: #fff;
+  border: none;
+  padding: 10px 16px;
+  border-radius: 6px;
+  cursor: pointer;
+}

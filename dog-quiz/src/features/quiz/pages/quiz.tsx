@@ -16,6 +16,8 @@ const Quiz: React.FC = () => {
   const [selectedImage, setSelectedImage] = useState("");
   const [correctBreed, setCorrectBreed] = useState("");
   const [feedbackImage, setFeedbackImage] = useState<string | null>(null); // 〇か✕の画像表示用
+  const [selectedOptionKey, setSelectedOptionKey] = useState<string | null>(null);
+  const [isAnswerCorrect, setIsAnswerCorrect] = useState<boolean | null>(null);
   const points = localStorage.getItem("point")? parseInt(localStorage.getItem("point")!, 10)
   : 0;
 
@@ -56,8 +58,10 @@ const Quiz: React.FC = () => {
   const handleAnswer = (selectedOption: string) => {
     // 正解かどうかを判定
     const isCorrect = selectedOption === correctBreed;
-    
-    // フィードバック画像の設定
+
+    // 選択情報を保持してフィードバックを表示
+    setSelectedOptionKey(selectedOption);
+    setIsAnswerCorrect(isCorrect);
     setFeedbackImage(isCorrect ? correctImage : incorrectImage);
 
     if (isCorrect){
@@ -65,16 +69,18 @@ const Quiz: React.FC = () => {
       localStorage.setItem("point", (points + 1).toString());
     }
 
-    // 3秒後にフィードバック画像を非表示にして次の質問へ
+    // 2秒後にフィードバック画像と選択情報をクリアして次の質問へ
     setTimeout(() => {
       setFeedbackImage(null); // フィードバック画像を非表示
+      setSelectedOptionKey(null);
+      setIsAnswerCorrect(null);
       if (currentQuestion +1 === 10) {
         setIsQuizCompleted(true);
       } else {
         setCurrentQuestion(currentQuestion + 1);
       }
-    }, 3000);
-  };
+    }, 2000);
+  }; 
 
   if (isQuizCompleted) {
     return <Result correctAnswers={correctAnswers}/>;
@@ -82,9 +88,9 @@ const Quiz: React.FC = () => {
   return (
     <div className="quiz-container">
       <div className="quiz-header">
-        <p>{currentQuestion +1}</p>
-        <button className="round-button" onClick={() => navigate("/")}/>
-      </div>
+        <p>{currentQuestion +1} / 10</p>
+        <button aria-label="閉じる" className="round_btn" onClick={() => navigate("/")}/>
+      </div> 
 
       <h2 className="quiz-question">
         Q{currentQuestion + 1} この犬種の名前は？
@@ -93,18 +99,28 @@ const Quiz: React.FC = () => {
         <img src = {selectedImage} alt = "クイズ画像" className = "quiz-image"/>
       )}
       <div className = "quiz-options">
-        {quizData[0]?.options.map((option: { key: string; name: string }, index: number) => (
-          <button 
-          key ={index}
-          className = "quiz-option"
-          onClick={() => handleAnswer(option.key)}
-          disabled = {!!feedbackImage}  // フィードバック表示中は選択肢を選べないようにする 
-          >
-            {option.name}
-          </button>
-        ))}
+        {quizData[0]?.options.map((option: { key: string; name: string }, index: number) => {
+          const isSelected = selectedOptionKey === option.key;
+          const isCorrectOption = option.key === correctBreed;
+          let optionClass = "quiz-option";
+          if (selectedOptionKey) {
+            if (isCorrectOption) optionClass += " option-correct";
+            else if (isSelected) optionClass += " option-wrong";
+          }
+
+          return (
+            <button 
+              key ={index}
+              className = {optionClass}
+              onClick={() => handleAnswer(option.key)}
+              disabled = {!!feedbackImage}  // フィードバック表示中は選択肢を選べないようにする 
+            >
+              {option.name}
+            </button>
+          );
+        })}
       </div>
-      {feedbackImage && (
+      {feedbackImage && isAnswerCorrect !== null &&(
         <img
         src = {feedbackImage}
         alt = "フィードバック画像"
