@@ -39,10 +39,9 @@ const Result: React.FC <{ correctAnswers: number}> = ({correctAnswers}) =>{
             <button className="top-button" onClick={() => navigate("/")}>
                 トップへ戻る
             </button>
-            <button className = "retry-button" onClick={() => {localStorage.setItem("point", "0"); navigate("/quiz"); }}>
+            <button type="button" className="retry-button" onClick={() => { localStorage.setItem("point", "0"); window.location.href = "/quiz"; }}>
                 再挑戦する
             </button>
-
         </div>
         </>
     );

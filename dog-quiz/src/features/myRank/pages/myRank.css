@@ -76,13 +76,13 @@
 }
 
 .retry-button {
-  background-color: #c781b4;
-  border-color: #f443ca;
+  background-color: #f3c2dc;
+  border-color: #c781b4;
 }
 
 .retry-button:hover {
-  background-color: #f443ca;
-  color: #c781b4;
+  background-color: #c781b4;
+  color: white;
 }
 
 .badge-image {

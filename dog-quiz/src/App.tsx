@@ -8,7 +8,7 @@ import {
 import dogsImage1 from "./assets/animal_quiz_maru.png";
 import dogsImage2 from "./assets/animal_quiz_batsu.png";
 import MyRank from "./features/myRank/pages/MyRank";
-import Quiz from "./features/quiz/pages/Quiz";
+import Quiz from "./features/quiz/pages/quiz";
 
 
 /**
